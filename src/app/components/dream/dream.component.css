@@ -1,0 +1,32 @@
+.navbar {
+  background-color:#A23A3A;
+}
+
+a:not([href]):not([tabindex]) {
+  text-decoration: none;
+  color: white;
+  font-size: 35px;
+  text-align: center;
+}
+
+
+.navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid {
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+img {
+  width:50%;
+  height: 90%;
+}
+
+.row {
+  margin-top:20px;
+}
+
+@media (max-width: 768px){
+  img {
+      width: 100%;
+  }
+
+}

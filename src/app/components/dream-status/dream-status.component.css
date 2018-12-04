@@ -1,0 +1,51 @@
+.fa-plus-circle{
+  color:#A23A3A;
+  font-size: 30px;
+  display: inline-block;
+  text-align: right;
+  background: aliceblue;
+}
+
+.divIcon{
+  text-align: right;
+  margin-top: 1%;
+}
+
+.title {
+  background-color: white;
+  text-align: center;
+  font-size: 30px;
+  color:#A23A3A;
+}
+
+.margin {
+  margin-top: 2%;
+}
+
+.list-group {
+  font-size: 20px;
+  margin-top: 4%;
+  text-align: center;
+}
+
+.text {
+  font-weight: unset;
+  font-size: 150%;
+  margin-top: 5%;
+  text-align: center;
+
+}
+
+img {
+  width:30%;
+  height: 70%;
+}
+
+a {
+  background-color: rgb(230, 90, 90);
+  color:white;
+}
+
+#cruz{
+  background-color:#ffffff;
+}

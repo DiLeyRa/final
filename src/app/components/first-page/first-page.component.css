@@ -1,0 +1,36 @@
+.saldo{
+  background-color: #f06868;
+  border-color: #f06868;
+  border-radius: 10px;
+}
+.enviar{
+  background-color: transparent;
+  border-color: transparent;
+  display: inline-block;
+  margin: 4px;
+}
+.recibir{
+  background-color: transparent;
+  border-color: transparent;
+  display: inline-block;
+  margin: 6px;
+}
+.registrar{
+  background-color: transparent;
+  border-color: transparent;
+  display: inline-block;
+  margin: 2px;
+}
+.img-enviar{
+  width: 50px;
+  height: 50px;
+}
+
+@media only screen and (min-width: 768px) {
+  .recibir{
+      margin-left: 17%;
+  }
+  .registrar{
+      margin-left: 17%;
+  }
+}

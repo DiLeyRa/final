@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="row">
+      <div class="col-12 d-flex justify-content-center title">
+        <p class="h3">Escanea el código</p>
+      </div>
+      <div class="col-12 d-flex justify-content-center">
+        <ngx-qrcode id="qr" qrc-element-type="url" [qrc-value]="ngxQrcode2" ></ngx-qrcode>
+      </div>
+      <button type="button" id="botton" class="btn-enviar form-control">
+        <a href="#" routerLink="/confirmation" style="color:white; text-decoration:none">
+          Enviar
+        </a>
+      </button>
+    </div>
+  </div>

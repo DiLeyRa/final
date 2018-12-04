@@ -1,0 +1,25 @@
+.btn{
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+    margin-left: 32%;
+    background-color: white !important;
+    color: black;
+    border-color: transparent;
+}
+.btn-enviar{
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+    margin-top: 2em;
+    background-color: #b8173a !important;
+    color: white;
+    border-color: black;
+}
+.text-center{
+margin-bottom: 1em;
+}
+img{
+    width: 40px;
+    height: 40px;
+}

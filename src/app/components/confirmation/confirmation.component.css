@@ -1,0 +1,11 @@
+.btn-enviar{
+    width: 32%;
+    height: 30%;
+    border-radius: 10px;
+    margin-left: 15%;
+    margin-top: 2em;
+    background-color: #b8173a !important;
+    color: white;
+    border-color: black;
+    display: inline-block;
+}
